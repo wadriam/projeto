@@ -23,7 +23,7 @@ body * {
 
 :root {
     --text-color: white;
-    --bg-url: url(./midia/teste.png);
+    --bg-url: url(./midia/teste3.png);
     --stroke-color:  rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --surface-color-hover: rgba(255, 255, 255, 0.02);
